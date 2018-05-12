@@ -1,0 +1,26 @@
+_repo: The-Parables-of-Our-Lord_21328
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21328-h/images/cover_small.jpg
+creator:
+  author:
+    agent_name: Arnot, William
+    birthdate: 1808
+    deathdate: 1875
+    gutenberg_agent_id: '9859'
+    url: http://www.gutenberg.org/2009/agents/9859
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Parables'
+- !lcc 'BT'
+title: The Parables of Our Lord
+url: http://www.gutenberg.org/ebooks/21328
